@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "kaftan";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Kaftan_Serif"),
+    url(/fonts/kaftan_Serif/Kaftan_Serif.woff2) format("woff2");
+}
